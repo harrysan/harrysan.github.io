@@ -1,0 +1,39 @@
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+.yellow-frappe {
+  color: #e5c890;
+}
+
+.blue-dark-frappe {
+  color: #8caaee;
+}
+
+.blue-medium-frappe {
+  color: #c6d0f5;
+}
+
+.blue-light-frappe {
+  color: #b5bfe2;
+}
+
+.green-frappe {
+  color: #a6d189;
+}
+
+.bg-blue-dark-frappe {
+  background-color: #8caaee;
+}
+
+.bg-yellow-frappe {
+  background-color: #e5c890;
+}
+
+.bg-green-frappe {
+  background-color: #a6d189;
+}
+
+.bg-dark-frapper {
+  background-color: #303446;
+}
